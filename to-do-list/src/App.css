@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: purple;
+}
+input{
+  padding: 5px;
+  margin: 10px;
+}
+
+
+
+
+
